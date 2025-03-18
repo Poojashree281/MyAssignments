@@ -6,7 +6,7 @@ public class Chrome {
 		float version=91.0f;
 		String developer="Google";
 		boolean isBeta=false;
-		short releaseYear=2008;
+		int releaseYear=2008;
 		char shortcutKey='C';
 		System.out.println(version);
 		System.out.println(isBeta);
